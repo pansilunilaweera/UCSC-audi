@@ -2,5 +2,12 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
-    color: #000000;    // Changed
+    color: #fff;
+     
+    
+     // Changed
     }
+.hedder{
+    
+    background-color: #3a000d;
+}
